@@ -6,3 +6,9 @@ bin/
 out/
 *.iml
 .idea/
+
+target/
+*.class
+
+.DS_Store
+Thumbs.db
