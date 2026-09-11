@@ -59,19 +59,6 @@
       <artifactId>geoip2</artifactId>
       <version>4.2.0</version>
     </dependency>
-    <!-- Testing Libraries -->
-    <dependency>
-      <groupId>org.junit.jupiter</groupId>
-      <artifactId>junit-jupiter-engine</artifactId>
-      <version>5.11.3</version>
-      <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.easymock</groupId>
-      <artifactId>easymock</artifactId>
-      <version>5.3.0</version>
-      <scope>test</scope>
-    </dependency>
   </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
