@@ -17,22 +17,16 @@
       <artifactId>commons-math3</artifactId>
       <version>3.5</version>
     </dependency>
-    <!-- Fix for building uncommons math -->
     <dependency>
-      <groupId>jfree</groupId>
-      <artifactId>jfreechart</artifactId>
-      <version>1.0.9</version>
-    </dependency>
-    <dependency>
-      <groupId>org.uncommons.maths</groupId>
+      <groupId>io.gatling.uncommons.maths</groupId>
       <artifactId>uncommons-maths</artifactId>
-      <version>1.2.2</version>
+      <version>1.2.3</version>
     </dependency>
     <!-- Utilities & Guava -->
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>18.0</version>
+      <version>33.2.1-jre</version>
     </dependency>
     <dependency>
       <groupId>commons-io</groupId>
@@ -42,7 +36,7 @@
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-lang3</artifactId>
-      <version>3.17.0</version>
+      <version>3.18.0</version>
     </dependency>
     <dependency>
       <groupId>commons-net</groupId>
